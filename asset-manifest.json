@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.6b86fd7b.css",
-    "main.js": "/home/static/js/main.3f03a604.js",
-    "static/media/project.svg": "/home/static/media/project.f2ebf55ced59825413ead350357e14f2.svg",
-    "static/media/github.svg": "/home/static/media/github.03ec87da02da75cc5892b8b237ee2d66.svg",
-    "static/media/linkedin.svg": "/home/static/media/linkedin.be8df72e4a4d83f9c0936899e494ba17.svg",
-    "index.html": "/home/index.html",
-    "main.6b86fd7b.css.map": "/home/static/css/main.6b86fd7b.css.map",
-    "main.3f03a604.js.map": "/home/static/js/main.3f03a604.js.map"
+    "main.css": "/site/static/css/main.55affad5.css",
+    "main.js": "/site/static/js/main.3d626feb.js",
+    "static/media/project.svg": "/site/static/media/project.f2ebf55ced59825413ead350357e14f2.svg",
+    "static/media/github.svg": "/site/static/media/github.03ec87da02da75cc5892b8b237ee2d66.svg",
+    "static/media/linkedin.svg": "/site/static/media/linkedin.be8df72e4a4d83f9c0936899e494ba17.svg",
+    "index.html": "/site/index.html",
+    "main.55affad5.css.map": "/site/static/css/main.55affad5.css.map",
+    "main.3d626feb.js.map": "/site/static/js/main.3d626feb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b86fd7b.css",
-    "static/js/main.3f03a604.js"
+    "static/css/main.55affad5.css",
+    "static/js/main.3d626feb.js"
   ]
 }
